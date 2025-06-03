@@ -27,7 +27,7 @@ I'm a self-taught fullstack developer and student based in Uganda 🇺🇬. I lo
 
 ## 📫 Let's Connect
 - Email: birhindwan@gmail.com
-- LinkedIn: [linkedin.com/in/yourprofile]
+  
 - Twitter: https://x.com/BirindwaNathan
 
 <!-- Optional Support -->
