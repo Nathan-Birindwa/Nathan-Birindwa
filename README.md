@@ -2,12 +2,6 @@
 
 I'm a self-taught fullstack developer and student based in Uganda 🇺🇬. I love building practical, beautiful, and meaningful digital experiences. From web apps to mobile tools, I'm all about turning ideas into working products.
 
-## 🔭 Current Projects
-- 🚀 Building **AtlasPay** – a borderless wallet for MTN, Airtel, crypto & services like Netflix
-- 💬 Creating a social app for developers to connect and collaborate
-- 🌱 Learning Flutter & React Native for cross-platform mobile apps
-- 📘 Deep diving into computer science & Web3 development
-
 ## 🛠️ Tech Stack
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
