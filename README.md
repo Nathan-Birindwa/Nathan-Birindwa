@@ -27,4 +27,4 @@ I'm a self-taught fullstack developer and student based in Uganda 🇺🇬. I lo
 <!-- Optional Support -->
 ## ☕ Support Me
 [Buy Me a Coffee]
-https://buymeacoffee.com/birhindwa
+https://buymeacoffee.com/birhindwa,
