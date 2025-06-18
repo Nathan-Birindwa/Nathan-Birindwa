@@ -15,7 +15,7 @@ I'm a self-taught fullstack developer and student based in Uganda 🇺🇬. I lo
 ![Nathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nath-dev&show_icons=true&theme=radical)
 
 ## ✨ Fun Facts
-- 🎓 Still in high school but building production-level apps
+- 🎓 Still in high school but building production-level apps.
 - ⚡ I taught myself coding with online resources and real-world projects
 - 🌍 I’m Congolese living in Uganda and I code every day!
 
