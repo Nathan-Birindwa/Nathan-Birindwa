@@ -19,4 +19,4 @@ I'm a self-taught fullstack developer and student based in Uganda 🇺🇬. I lo
 - Email: birhindwan@gmail.com
   
 - Twitter: https://x.com/BirindwaNathan
-Disclaimer: I love coding. that is the reason why i build stuff 
+- Disclaimer: I love coding. that is the reason why i build stuff 
