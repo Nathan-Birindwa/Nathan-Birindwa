@@ -10,10 +10,6 @@ I'm a self-taught fullstack developer and student based in Uganda 🇺🇬. I lo
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)
 
-## 📊 GitHub Stats
-<!-- GitHub stats and trophies placeholders -->
-![Nathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nath-dev&show_icons=true&theme=radical)
-
 ## ✨ Fun Facts
 - 🎓 Still in high school but building production-level apps.
 - ⚡ I taught myself coding with online resources and real-world projects
@@ -23,8 +19,4 @@ I'm a self-taught fullstack developer and student based in Uganda 🇺🇬. I lo
 - Email: birhindwan@gmail.com
   
 - Twitter: https://x.com/BirindwaNathan
-
-<!-- Optional Support -->
-## ☕ Support Me
-[Buy Me a Coffee]
-https://buymeacoffee.com/birhindwa,
+Disclaimer: I love coding. that is the reason why i build stuff 
