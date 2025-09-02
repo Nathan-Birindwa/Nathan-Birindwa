@@ -1,4 +1,4 @@
-# Hi there, I'm Nathan 👋
+# Hi there, I'm Nathan Birindwa👋
 
 I'm a self-taught fullstack developer and student based in Uganda 🇺🇬. I love building practical, beautiful, and meaningful digital experiences. From web apps to mobile tools, I'm all about turning ideas into working products.
 
